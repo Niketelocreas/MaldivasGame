@@ -1,0 +1,20 @@
+{
+  "name": "El Desafío Definitivo",
+  "short_name": "Desafío Maldivas",
+  "description": "Diario personal de avistamientos marinos en Maldivas.",
+  "lang": "es",
+  "start_url": "./desafio-definitivo.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020b12",
+  "theme_color": "#020b12",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
